@@ -9,14 +9,15 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 option(gtest_force_shared_crt ON)
 option(BUILD_GMOCK OFF)
 option(INSTALL_GTEST OFF)
-add_subdirectory(${CMAKE_SOURCE_DIR}/googletest ${CMAKE_BINARY_DIR}/googletest-build)
+add_subdirectory(googletest)
 
 # Dodanie pliku z testami jednostkowymi
-add_executable(MergeSortTests MergeSortTest.cpp MergeSort.h)
+# Zmień nazwę celu, aby uniknąć konfliktu nazw
+add_executable(MergeSortTestsApp MergeSortTest.cpp MergeSort.h)
 
 # Linkowanie bibliotek Google Test do testów
-target_link_libraries(MergeSortTests gtest gtest_main)
+target_link_libraries(MergeSortTestsApp gtest gtest_main)
 
 # Konfiguracja testów
 enable_testing()
-add_test(NAME MergeSortTests COMMAND MergeSortTests)
+add_test(NAME MergeSortTests COMMAND MergeSortTestsApp)
