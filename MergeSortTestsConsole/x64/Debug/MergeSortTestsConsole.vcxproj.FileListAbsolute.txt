@@ -1,0 +1,2 @@
+C:\Projects\Zadanie3\MergeSortTestsConsole\x64\Debug\MergeSortTestsConsole.vcxproj.AssemblyReference.cache
+C:\Projects\Zadanie3\MergeSortTestsConsole\x64\Debug\MergeSor.7B93D8AF.Up2Date
