@@ -1,5 +1,5 @@
 ﻿  MergeSort.cpp
-C:\Projects\Zadanie3\MergeSortApp\MergeSort.cpp(4,34): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Projects\Zadanie3\MergeSortApp\MergeSort.cpp(5,38): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
   main.cpp
   Generowanie kodu...
   MergeSortApp.vcxproj -> C:\Projects\Zadanie3\MergeSortApp\x64\Debug\MergeSortApp.exe

@@ -1,0 +1,3 @@
+C:\Projects\Zadanie3\MergeSortTest\x64\Debug\gtest.pdb
+C:\Projects\Zadanie3\MergeSortTest\x64\Debug\gtest_main.pdb
+C:\Projects\Zadanie3\MergeSortTest\MergeSortTest\x64\Debug\MergeSor.9D61E6C3.Up2Date

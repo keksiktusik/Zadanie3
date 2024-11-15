@@ -2,6 +2,7 @@
 #include <vector>
 #include "gtest/gtest.h"
 #include "pch.h"
+#include "MergeSort.h"
 
 TEST(MergeSortTests, AlreadySortedArray) {
     std::vector<int> arr = { 1, 2, 3, 4, 5 };

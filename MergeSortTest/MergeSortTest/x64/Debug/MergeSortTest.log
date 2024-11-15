@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  main.cpp
+  MergeSort.cpp
+C:\Projects\Zadanie3\MergeSortTest\MergeSort.cpp(6,38): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  MergeSortTests.cpp
+  Generowanie kodu...
+  MergeSortTest.vcxproj -> C:\Projects\Zadanie3\MergeSortTest\x64\Debug\MergeSortTest.exe
