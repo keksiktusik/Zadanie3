@@ -1,3 +1,4 @@
 ﻿  pch.cpp
   test.cpp
-  MergeSortTests.vcxproj -> C:\Projects\Zadanie3\Zadanie\x64\Debug\MergeSortTests.exe
+test.obj : error LNK2019: nierozpoznany symbol zewnętrzny "public: static void __cdecl MergeSort::sort(class std::vector<int,class std::allocator<int> > &)" (?sort@MergeSort@@SAXAEAV?$vector@HV?$allocator@H@std@@@std@@@Z) przywołany w funkcji "private: virtual void __cdecl MergeSortTests_AlreadySortedArray_Test::TestBody(void)" (?TestBody@MergeSortTests_AlreadySortedArray_Test@@EEAAXXZ)
+C:\Projects\Zadanie3\MergeSortApp\x64\Debug\MergeSortTests.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
