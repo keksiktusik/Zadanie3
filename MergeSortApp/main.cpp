@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <vector>
 #include "MergeSort.h"
-
+/*
 int main() {
     std::vector<int> arr = { 12, 11, 13, 5, 6, 7 };
     MergeSort::sort(arr);
@@ -14,3 +14,5 @@ int main() {
 
     return 0;
 }
+
+*/

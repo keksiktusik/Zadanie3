@@ -1,5 +1,2 @@
-﻿  MergeSort.cpp
-C:\Projects\Zadanie3\MergeSortApp\MergeSort.cpp(5,38): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
-  main.cpp
-  Generowanie kodu...
-  MergeSortApp.vcxproj -> C:\Projects\Zadanie3\MergeSortApp\x64\Debug\MergeSortApp.exe
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Projects\Zadanie3\MergeSortApp\x64\Debug\MergeSortApp.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

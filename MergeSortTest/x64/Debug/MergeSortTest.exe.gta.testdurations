@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Projects\Zadanie3\MergeSortTest\x64\Debug\MergeSortTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="MergeSortTest.AlreadySortedArray" Duration="1" />
+    <TestDuration Test="MergeSortTest.ReverseSortedArray" Duration="1" />
+    <TestDuration Test="MergeSortTest.RandomArray" Duration="1" />
+    <TestDuration Test="MergeSortTest.NegativeNumbers" Duration="1" />
+    <TestDuration Test="MergeSortTest.MixedNumbers" Duration="1" />
+    <TestDuration Test="MergeSortTest.EmptyArray" Duration="1" />
+    <TestDuration Test="MergeSortTest.SingleElementArray" Duration="1" />
+    <TestDuration Test="MergeSortTest.ArrayWithDuplicates" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

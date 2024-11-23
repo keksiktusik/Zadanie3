@@ -1,3 +1,4 @@
+#define RUN_TESTS
 #include "pch.h"
 #include "gtest/gtest.h"
 #include "MergeSort.h"
