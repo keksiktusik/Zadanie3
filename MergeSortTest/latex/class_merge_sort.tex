@@ -1,0 +1,73 @@
+\doxysection{Merge\+Sort Class Reference}
+\hypertarget{class_merge_sort}{}\label{class_merge_sort}\index{MergeSort@{MergeSort}}
+
+
+\texorpdfstring{$<$}{<} Dynamiczne tablice umo¿liwiaj¹ce elastyczne zarz¹dzanie danymi.  
+
+
+
+
+{\ttfamily \#include $<$Merge\+Sort.\+h$>$}
+
+\doxysubsubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{class_merge_sort_a008b95ece58d6d6b884e6f235b61c195}{sort}} (std\+::vector$<$ int $>$ \&array)
+\begin{DoxyCompactList}\small\item\em Sortuje podany wektor liczb ca³kowitych w kolejnoœci rosn¹cej. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Detailed Description}
+\texorpdfstring{$<$}{<} Dynamiczne tablice umo¿liwiaj¹ce elastyczne zarz¹dzanie danymi. 
+
+Klasa implementuj¹ca algorytm sortowania przez scalanie.\hypertarget{class_merge_sort_autotoc_md1}{}\doxysubsubsubsection{\texorpdfstring{Przeznaczenie\+:}{Przeznaczenie\+:}}\label{class_merge_sort_autotoc_md1}
+Klasa s³u¿y do sortowania wektorów liczb ca³kowitych w kolejnoœci rosn¹cej. Umo¿liwia ³atwe i szybkie sortowanie du¿ych zbiorów danych.\hypertarget{class_merge_sort_autotoc_md2}{}\doxysubsubsubsubsection{\texorpdfstring{G³ówne metody\+:}{G³ówne metody\+:}}\label{class_merge_sort_autotoc_md2}
+
+\begin{DoxyItemize}
+\item {\ttfamily sort}\+: Punkt wejœciowy algorytmu.
+\item {\ttfamily merge\+Sort}\+: Funkcja rekurencyjna dziel¹ca zbiór na mniejsze czêœci.
+\item {\ttfamily merge}\+: Funkcja ³¹cz¹ca dwa posortowane podzbiory. 
+\end{DoxyItemize}
+
+\doxysubsection{Member Function Documentation}
+\Hypertarget{class_merge_sort_a008b95ece58d6d6b884e6f235b61c195}\index{MergeSort@{MergeSort}!sort@{sort}}
+\index{sort@{sort}!MergeSort@{MergeSort}}
+\doxysubsubsection{\texorpdfstring{sort()}{sort()}}
+{\footnotesize\ttfamily \label{class_merge_sort_a008b95ece58d6d6b884e6f235b61c195} 
+void Merge\+Sort\+::sort (\begin{DoxyParamCaption}\item[{std\+::vector$<$ int $>$ \&}]{array}{}\end{DoxyParamCaption})}
+
+
+
+Sortuje podany wektor liczb ca³kowitych w kolejnoœci rosn¹cej. 
+
+Implementacja metody {\ttfamily sort}.
+
+Funkcja jest punktem wejœciowym algorytmu Merge Sort. Wywo³uje rekurencyjn¹ funkcjê {\ttfamily merge\+Sort}.\hypertarget{class_merge_sort_autotoc_md3}{}\doxysubsubsubsubsection{\texorpdfstring{Przyk³ad\+:}{Przyk³ad\+:}}\label{class_merge_sort_autotoc_md3}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{\mbox{\hyperlink{class_merge_sort}{MergeSort}}\ sorter;}
+\DoxyCodeLine{std::vector<int>\ array\ =\ \{5,\ 3,\ 8,\ 6,\ 2\};}
+\DoxyCodeLine{sorter.\mbox{\hyperlink{class_merge_sort_a008b95ece58d6d6b884e6f235b61c195}{sort}}(array);}
+
+\end{DoxyCode}
+
+
+
+\begin{DoxyParams}{Parameters}
+{\em array} & Wektor liczb ca³kowitych do posortowania.\\
+\hline
+\end{DoxyParams}
+Metoda sprawdza, czy tablica jest pusta. Jeœli nie, wywo³uje rekurencyjn¹ metodê {\ttfamily merge\+Sort}.
+
+
+\begin{DoxyParams}{Parameters}
+{\em array} & Wektor liczb ca³kowitych do posortowania. \\
+\hline
+\end{DoxyParams}
+\texorpdfstring{$<$}{<} Obs³uga przypadku pustej tablicy.
+
+\texorpdfstring{$<$}{<} Rozpoczêcie procesu sortowania.
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{_merge_sort_8h}{Merge\+Sort.\+h}}\item 
+\mbox{\hyperlink{_merge_sort_8cpp}{Merge\+Sort.\+cpp}}\end{DoxyCompactItemize}
