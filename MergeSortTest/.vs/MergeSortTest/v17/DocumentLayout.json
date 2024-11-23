@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Projects\\Zadanie3\\MergeSortTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSortTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:MergeSortTests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:MergeSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:MergeSort.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|C:\\Projects\\Zadanie3\\MergeSortTest\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0BEB8EB5-0B09-4E70-BE16-38CB3D0A0436}|MergeSortTest.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,6 +49,19 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Projects\\Zadanie3\\MergeSortTest\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Projects\\Zadanie3\\MergeSortTest\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T19:30:06.149Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
@@ -58,52 +71,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MergeSort.cpp",
               "DocumentMoniker": "C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.cpp",
               "RelativeDocumentMoniker": "MergeSort.cpp",
               "ToolTip": "C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.cpp",
               "RelativeToolTip": "MergeSort.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T19:29:54.787Z"
+              "WhenOpened": "2024-11-15T19:29:54.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "pch.cpp",
               "DocumentMoniker": "C:\\Projects\\Zadanie3\\MergeSortTest\\pch.cpp",
               "RelativeDocumentMoniker": "pch.cpp",
               "ToolTip": "C:\\Projects\\Zadanie3\\MergeSortTest\\pch.cpp",
               "RelativeToolTip": "pch.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T19:40:51.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Projects\\Zadanie3\\MergeSortTest\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Projects\\Zadanie3\\MergeSortTest\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T19:30:06.149Z",
+              "WhenOpened": "2024-11-15T19:40:51.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MergeSort.h",
               "DocumentMoniker": "C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.h",
               "RelativeDocumentMoniker": "MergeSort.h",
               "ToolTip": "C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSort.h",
               "RelativeToolTip": "MergeSort.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswDQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-15T19:29:42.024Z"
+              "WhenOpened": "2024-11-15T19:29:42.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,7 +116,7 @@
               "RelativeDocumentMoniker": "MergeSortTests.cpp",
               "ToolTip": "C:\\Projects\\Zadanie3\\MergeSortTest\\MergeSortTests.cpp",
               "RelativeToolTip": "MergeSortTests.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-15T19:29:04.777Z",
               "EditorCaption": ""
